@@ -2,7 +2,7 @@
 
 一个让骑手真正看懂平台算法的 Web App Demo。
 
-**🔗 Live Demo：** *(部署后填入 Railway 地址)*
+**🔗 Live Demo：** https://delivery-transparency-production.up.railway.app
 
 ---
 
